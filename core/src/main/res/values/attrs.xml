@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="delImg" format="reference" />
+    <declare-styleable name="ClearEditText">
+        <attr name="delImg" />
+    </declare-styleable>
+</resources>
